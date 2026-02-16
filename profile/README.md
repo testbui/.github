@@ -4,7 +4,7 @@
 
 We build open source tools for Telegram communities: Features for chats and channels, community management, tools for crypto and collectibles within Telegram. All tools are built by independent developers. Follow our [announcements](t.me/builders) so you don't miss the next developer contest.
 
-![](assets/pic.jpg)
+![](../assets/pic.jpg)
 
 ## Our Tools
 
