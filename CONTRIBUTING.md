@@ -1,10 +1,10 @@
-# Contributing to Open Builders Tools
+# Contributing to Telegram Tools by Builders
 
-Thank you for your interest in contributing to Open Builders! We build open source tools for Telegram communities — access management, giveaways, contests, and more. Every contribution matters, whether it's code, bug reports, documentation, or ideas.
+Thank you for your interest in contributing to TG Tools — open source tools for Telegram communities. Every contribution matters, whether it's code, bug reports, documentation, or ideas.
 
 ## How We Work
 
-Open Builders tools are built by independent developers supported by $BUILD [grants](https://t.me/builders/264). All tools are open source and run as live products on Telegram: [tools.tg](https://tools.tg).
+Our tools are built by independent developers supported by $BUILD [grants](https://t.me/builders/264). All tools are open source and run as live products on Telegram: [tools.tg](https://tools.tg).
 
 There are two ways to contribute:
 
